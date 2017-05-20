@@ -42,6 +42,25 @@ body{
 .in1, .in2, .in3{
 	display: inline-block;
 	width: 160px;
-	border:0;
-	
+	border:0;	
+}
+
+/****INDEX5*****/
+
+
+
+.caja1{
+	background-color: #003D58;
+	width: 340px;
+	padding: 10px;
+
+}
+.div1, .div, .di, .div7{
+	background-color: #009EE4;
+	width: 100px;
+	height: 100px;
+	margin:5px;
+}
+.div, .di{
+	display: inline-block;
 }
