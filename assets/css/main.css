@@ -3,7 +3,7 @@ body{
 	font-family: 'Roboto Slab', serif;
 }
 
-.lab,.trans{
+.lab,.trans,.e1, .e3{
 	text-transform: capitalize;
 	background-color: yellow;
 	height: 50px;
@@ -12,7 +12,7 @@ body{
 
 }
 
-.es{
+.es, .e2{
 	background-color: red;
 	height: 50px;
 	padding-left: 10px;
@@ -21,7 +21,13 @@ body{
 
 }
 
-.trans{
+.trans, .e3{
 	text-transform: uppercase;
 	
+}
+
+.e1, .e2, .e3{
+	border: 0;
+	margin:10px;
+	width: 160px;
 }
