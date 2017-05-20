@@ -1,0 +1,27 @@
+
+body{
+	font-family: 'Roboto Slab', serif;
+}
+
+.lab,.trans{
+	text-transform: capitalize;
+	background-color: yellow;
+	height: 50px;
+	padding-left: 10px;
+	padding-top: 10px;
+
+}
+
+.es{
+	background-color: red;
+	height: 50px;
+	padding-left: 10px;
+	padding-top: 10px;
+	border: 1px solid black;
+
+}
+
+.trans{
+	text-transform: uppercase;
+	
+}
