@@ -3,7 +3,7 @@ body{
 	font-family: 'Roboto Slab', serif;
 }
 
-.lab,.trans,.e1, .e3, .a, .c{
+.lab,.trans,.e1, .e3, .a, .c, .in1, .in3{
 	text-transform: capitalize;
 	background-color: yellow;
 	height: 50px;
@@ -12,7 +12,7 @@ body{
 
 }
 
-.es, .e2, .b{
+.es, .e2, .b, .in2{
 	background-color: red;
 	height: 50px;
 	padding-left: 10px;
@@ -21,7 +21,7 @@ body{
 
 }
 
-.trans, .e3, .c{
+.trans, .e3, .c, .in3{
 	text-transform: uppercase;
 	
 }
@@ -37,4 +37,11 @@ body{
 	border: 0;
 	padding: 10px;
 
+}
+
+.in1, .in2, .in3{
+	display: inline-block;
+	width: 160px;
+	border:0;
+	
 }
